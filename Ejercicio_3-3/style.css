@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.menu {
+    list-style: none;
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+    height: 40px;
+    align-items: center;
+}
+ul :hover {
+    color:chartreuse;
+}
